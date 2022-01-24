@@ -13,6 +13,7 @@ el pago minimo a pagar es el valor de la tarifa de un dia.
 
 * Desarrollado en el IDE Netbeans 8.2 .
 * El JDK utilizado fue la version 8 oficial de Java.
+* Todas las librerias necesarias estan en la carpeta **lib**
 * Debido a la naturaleza del manejo de datos con archivos .txt se omitio la funcion de editar en algunos modulos.
 * Credenciales predeterminadas **Usuario** : _admin_ **Contrasena** : _1234567_
 
